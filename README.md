@@ -1,5 +1,5 @@
 # ME495 Sensing, Navigation, and Machine Learning
-Author: Senthil Palanisamy
+
 # Tasks Submitted
 (List the tasks that you worked on and completed here)
 A.004
